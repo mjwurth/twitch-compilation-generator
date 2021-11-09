@@ -52,3 +52,7 @@ The format of streamers.txt is one line per streamer where each line is of the f
 `[streamer], [video number]`.
 
 In the git repository there is already a streamers.txt as an example.
+
+## License
+
+Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html

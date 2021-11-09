@@ -5,7 +5,7 @@ This is done by retrieving the top clips from a given period, shuffling them, an
 
 ## Requirements
 
-- Python installed.
+- Python 3.5+ installed.
 - ffmpeg installed and on system path.
 - twitch-dl installed from [here](https://github.com/ihabunek/twitch-dl).
 

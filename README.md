@@ -49,7 +49,7 @@ This will automatically run `createCompilation` for each streamer in a text file
 
 The format of streamers.txt is one line per streamer where each line is of the format 
 
-`[streamer], [video number]`.
+`[streamer], [video number]`
 
 In the git repository there is already a streamers.txt as an example.
 
